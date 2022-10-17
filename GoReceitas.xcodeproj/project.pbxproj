@@ -14,6 +14,8 @@
 		06459BBD28B01A060054F510 /* GoReceitas.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 06459BBB28B01A060054F510 /* GoReceitas.xcdatamodeld */; };
 		06459BBF28B01A080054F510 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06459BBE28B01A080054F510 /* Assets.xcassets */; };
 		06459BC228B01A080054F510 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06459BC028B01A080054F510 /* LaunchScreen.storyboard */; };
+		5C0BFF5728CA858A000EF45A /* changeEmailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C0BFF5628CA858A000EF45A /* changeEmailViewController.swift */; };
+		5C0BFF5928CA85BC000EF45A /* changePasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C0BFF5828CA85BC000EF45A /* changePasswordViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		06459BBE28B01A080054F510 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		06459BC128B01A080054F510 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		06459BC328B01A080054F510 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C0BFF5628CA858A000EF45A /* changeEmailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = changeEmailViewController.swift; sourceTree = "<group>"; };
+		5C0BFF5828CA85BC000EF45A /* changePasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = changePasswordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				06459BB428B01A060054F510 /* SceneDelegate.swift */,
 				06459BB628B01A060054F510 /* ViewController.swift */,
 				06459BB828B01A060054F510 /* Main.storyboard */,
+				5C0BFF5828CA85BC000EF45A /* changePasswordViewController.swift */,
+				5C0BFF5628CA858A000EF45A /* changeEmailViewController.swift */,
 				06459BBE28B01A080054F510 /* Assets.xcassets */,
 				06459BC028B01A080054F510 /* LaunchScreen.storyboard */,
 				06459BC328B01A080054F510 /* Info.plist */,
@@ -144,6 +150,8 @@
 				06459BB728B01A060054F510 /* ViewController.swift in Sources */,
 				06459BBD28B01A060054F510 /* GoReceitas.xcdatamodeld in Sources */,
 				06459BB328B01A060054F510 /* AppDelegate.swift in Sources */,
+				5C0BFF5928CA85BC000EF45A /* changePasswordViewController.swift in Sources */,
+				5C0BFF5728CA858A000EF45A /* changeEmailViewController.swift in Sources */,
 				06459BB528B01A060054F510 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
